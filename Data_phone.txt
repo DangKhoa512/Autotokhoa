@@ -1,0 +1,12 @@
+{"name_Phone":"May1",
+"entry":"1016488491",
+"linkdocs":"https://docs.google.com/forms/u/0/d/e/1FAIpQLScDKCSu_6lGMZ3byfyBkT2ldejFFne1JNRKuSCR3FSLIiosLA/formResponse",
+"entry_xit":"1801121137",
+"linkdocs_xit":"https://docs.google.com/forms/u/0/d/e/1FAIpQLSf65Y0LhljHFds56Zl8u7FJEaVLctA9Ub12M6liu5em8zcX2w/formResponse",
+"entry_REG_NVR":"273034766",
+"linkdocs_REG_NVR":"https://docs.google.com/forms/u/0/d/e/1FAIpQLSdHeXiU8QbDHxP9ya_2WzYnO7QFF6pZVCmSjhugMHfmiRGhOw/formResponse",
+"entry_REG_NVR_SDT": "2144870820",
+"linkdocs_REG_NVR_SDT": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeiguCAFTQSPc6YpXYst4QPa5xcrYLZKGGWgwmt09WUBW-8bA/formResponse",
+"key_reg":"nam6628",
+"link_AppsCript_listAccount":"https://script.google.com/macros/s/AKfycbw3Ujq-utlYzt4Xp42XOFPEayKpSGAPOopr3LFoqwRTxlZWEZv6m5I0c9mG3SS65u1M8w/exec",
+"link_AppsCript":"https://script.google.com/macros/s/AKfycbyW7DU-75sN6hRb_ceuOJIn9o_UGtiZV-s9uUY9TXdKnBuMqXf-zZDzBeYmX_KVBwkHnA/exec?task=getAPI&web="}
